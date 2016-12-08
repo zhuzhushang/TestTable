@@ -10,5 +10,6 @@ public class JiuShi {
   
     String str = "好玩吗";
       String answer = "不好玩";
+    String again = "在加一个";
   }
 }
