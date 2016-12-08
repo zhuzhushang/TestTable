@@ -9,5 +9,6 @@ public class JiuShi {
   private void ji(){
   
     String str = "好玩吗";
+      String answer = "不好玩";
   }
 }
