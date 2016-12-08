@@ -5,4 +5,9 @@ package com.uyac.testtable;
  */
 
 public class JiuShi {
+  
+  private void ji(){
+  
+    String str = "好玩吗";
+  }
 }
